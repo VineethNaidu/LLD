@@ -1,0 +1,59 @@
+
+How to Design a Case Study?
+
+Q. Give a single line problem statement
+
+Design Solution:
+1. Gather Requirements
+2. Class Diagram
+3. Schema Design
+4. Write Code for some Classes/Interface
+
+
+Machine Code Solution:
+1. Clarify Requirements
+2. Class Diagram
+3. Schema Design
+4. Complete End to End Code
+
+Steps to Design a Case Study:
+
+Step 0: Get an Overview
+    1. Align your thoughts with the interviewer
+    Case 1: You already know about the system - What you know align with Interviewer.
+    Case 2: You don't know anything about the system - ask Interviewer to explain.
+
+    2. What Exactly do you want me to design
+        -> Entity Relationship Diagram
+        -> Real Software System
+
+    3. Do I have to persist the data in DB?
+        3.1 -> Real DB
+        3.2 -> In Memory DB
+
+    4. How do I interact with the client? (Command Line || Rest API || Hard Code)
+
+Step 1: Gather and Clarify Requirements
+    1. Suggest some ideas/features and ask support if you need.
+    2. 5-8 features is a good starting point.
+    3. Write(Jot) down every point of requirements explained by Interviewer (Without asking again).
+    4. Think About edge cases / future scope.
+
+Note: While Gather Requirements don't over do and complicate by suggesting more features. unless Interviewer asks.
+
+Step 2: Class Diagrams
+    1. Visualizing the requirements(Entity) Outside and Inside of an Entity.
+    2. Create (class/interface/enums) based on nouns.
+    3. Use Design Patterns for that class if required?.
+
+Step 3: Schema Design
+    1. Create Tables based on Class Entities.
+    2. Add Primitive Attributes to the table. (Unique)
+    3. Add Non-Primitive Attributes to the table. (Non Unique)
+    4. Add Foreign Keys to the table. (Provide Cardinality)
+
+Step 4: Write Code
+    1. Create a model for each entity.
+
+
+
