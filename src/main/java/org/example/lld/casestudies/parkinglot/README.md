@@ -1,4 +1,4 @@
-Q: Design and Implement a Parking Lot?
+Design and Implement a Parking Lot System
 
 Steps:
 0. Overview

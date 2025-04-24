@@ -5,7 +5,7 @@ import org.example.lld.casestudies.parkinglot.repository.ParkingLotRepository;
 import org.example.lld.casestudies.parkinglot.repository.TokenRepository;
 import org.example.lld.casestudies.parkinglot.repository.VehicleRepository;
 import org.example.lld.casestudies.parkinglot.service.TokenService;
-import org.example.lld.controller.TokenController;
+import org.example.lld.casestudies.parkinglot.controller.TokenController;
 
 public class Client {
     public static void main(String[] args) {

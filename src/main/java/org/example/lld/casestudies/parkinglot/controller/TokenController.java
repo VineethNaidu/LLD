@@ -1,4 +1,4 @@
-package org.example.lld.controller;
+package org.example.lld.casestudies.parkinglot.controller;
 
 import org.example.lld.casestudies.parkinglot.dtos.IssueTokenRequestDTO;
 import org.example.lld.casestudies.parkinglot.dtos.IssueTokenResponseDTO;
