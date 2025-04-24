@@ -35,7 +35,6 @@ Classes:
 Parking Lot:
 - id
 - floors
-- capacity
 - address
 - allowedVehicleTypes
 - entryGate
@@ -47,7 +46,6 @@ Parking Floor:
 - id
 - floorId
 - slots
-- capacity
 - allowedVehicleType
 - status
 
